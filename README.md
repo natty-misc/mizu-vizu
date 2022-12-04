@@ -2,6 +2,8 @@
 
 A terminal audio visualizer written in Rust.
 
+![a screenshot of the application, a frequency spectrum visualizer](/screen.png)
+
 ## Limitations
 
 * The audio device is currently hardcoded for the PulseAudio backend,
