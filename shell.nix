@@ -15,6 +15,7 @@ in
     nativeBuildInputs = with pkgs; [
       libpulseaudio.dev
       cargo
+      rustc
       gcc
       pkg-config
     ];
